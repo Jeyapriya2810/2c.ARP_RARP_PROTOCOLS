@@ -72,6 +72,7 @@ c.close()
 
 # Client
 <img width="941" height="247" alt="image" src="https://github.com/user-attachments/assets/4d986d1a-c249-4b37-a98e-8d4a00c74a37" />
+
 ## PROGRAM - RARP
 # Server
 ```
